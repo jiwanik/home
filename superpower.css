@@ -1,0 +1,34 @@
+body
+{
+	background-color: lightblue;
+	border: dotted gray;
+	margin: 5% 5% 10% 5%;
+	padding: 0% 5% 5% 5%;
+}/*body*/
+h1
+{
+	font-family: fantasy;
+	color: green;
+}/*h1*/
+
+h2
+{
+	font-family: sans-serif;
+	background-color: black;
+	color: white;
+	border: white double;
+	padding: 0% 0% 0% 3%;
+}/*h2*/
+p
+{
+	border: gray groove;
+	line-height: 2;
+}/*body*/
+p.X
+{
+	background-color: black;
+}/*p.X*/
+a
+{
+	color: white;
+}/*a*/
